@@ -3,7 +3,7 @@
 This is an Airbnb ‘look a like’ single page web application.
 This repositories is part 1 from 2 and includes the client.
 
-The second part with the app server files is here: https://github.com/AdiBarzilay/airbnb-client
+The second part with the app server files is here: https://github.com/AdiBarzilay/airbnb-server
 
 This application built with react and node. All the data in the pages is from a static database.
 It also including: node.js, React Router, Styled-Component, Express, MongoDB, Mongoose.
